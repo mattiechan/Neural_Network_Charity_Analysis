@@ -11,4 +11,13 @@ The variable that are targeted in this model is the "IS_SUCCESSFUL" column. The 
 
 All columns are considered variables to be features in the model, except target variable in addition to the columns we dropped, "EIN" and "NAME". 
 
+• **What variable(s) are neither targets nor features, and should be removed from the input data?**<br/>
+
+The variables that should be removed from the input data from being neither targets nor features are variables that do not effect the model. Any outliers should be removed as well as any that is not essential to the model. 
+
+## Compiling, Training, and Evaluating the Model
+• **How many neurons, layers, and activation functions did you select for your neural network model, and why?**<br/>
+
+I used two layers because there was no significance in adding another layer. The activation function I chose to use was **relu**. 200 neurons were used. 
+
 
