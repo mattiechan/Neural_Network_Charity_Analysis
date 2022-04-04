@@ -20,4 +20,18 @@ The variables that should be removed from the input data from being neither targ
 
 I used two layers because there was no significance in adding another layer. The activation function I chose to use was **relu**. 200 neurons were used. 
 
+![Screen Shot 2022-04-04 at 4 21 22 PM](https://user-images.githubusercontent.com/91761603/161648152-db860d12-4a4b-43b2-be18-77795dba6ba8.png)
+
+• **Were you able to achieve the target model perfomance?**<br/>
+
+Yes. I was able to achieve model accuracy to 73.6% 
+
+• **What steps did you take to try and increase model performance?**<br/>
+
+•Increased epochs to 500.
+•Increased neurons for each layer (1st layer- 200, 2nd layer- 90)
+•Binned ASK_AMT values.
+
+# Summary
+The probability of the model resulted in 76.3% and the loss score which also equates to the probability of the model failing is 60.89%. 
 
