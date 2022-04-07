@@ -35,3 +35,5 @@ Yes. I was able to achieve model accuracy to 73.6%
 # Summary
 The probability of the model resulted in 76.3% and the loss score which also equates to the probability of the model failing is 60.89%. 
 
+## Recommendation
+Adding more input value might be a good choice to increase the model accuracy. Another recommendation I would consider is to gather more data, though that may have a negative effect rather than a positive one. 
